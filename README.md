@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Cybersecurity+Enthusiast" alt="banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Frederik Broekman</h1>
 <h3 align="center">Aspiring Cybersecurity Professional | Tech Enthusiast </h3>
