@@ -10,6 +10,15 @@ I'm an aspiring cybersecurity professional with a strong passion for technology 
 
 ---
 
+### 📦 Blue-Team Projects
+
+- **[🔗 Azure-Honeypot](https://github.com/fjbroekman/Azure-Honeypot) – Lab environment to collect geographical information from attackers**
+
+- **[🔗 ELK-Stack Home SIEM](https://github.com/fjbroekman/ELK-Stack-Home-SIEM) – Created my own SIEM with an ELK Stack in Linux using Elasticsearch, Kibana, Filebeats**
+
+---
+
+
 🛠️ **Technical Skills**
 
 ```yaml
