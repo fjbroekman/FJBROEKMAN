@@ -1,6 +1,7 @@
 
-![svg](https://readme-typing-svg.herokuapp.com?font=B612+Mono&duration=2500&pause=1000&color=FFFFFF&width=435&allign=center&lines=Hey+there%2C+I'm+FrederikBroekman.)
-<h3 align="center">Aspiring Cybersecurity Professional | Tech Enthusiast </h3>
+![svg](https://readme-typing-svg.herokuapp.com?font=B612+Mono&duration=2500&pause=1000&color=FFFFFF&width=435&lines=Hey+there%2C+I'm+Frederik+Broekman.)
+
+### Aspiring Cybersecurity Professional | Tech Enthusiast
 
 ---
 
